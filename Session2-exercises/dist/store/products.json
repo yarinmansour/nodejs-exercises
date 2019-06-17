@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "categoryId": "1",
+        "name": "phone",
+        "itemsInStock": 9
+    },
+    {
+        "id": "2",
+        "categoryId": "1",
+        "name": "watch",
+        "itemsInStock": 1
+    },
+    {
+        "id": "3",
+        "categoryId": "1",
+        "name": "laptop",
+        "itemsInStock": 3
+    },
+    {
+        "id": "4",
+        "categoryId": "1",
+        "name": "keyboard",
+        "itemsInStock": 7
+    }
+]
